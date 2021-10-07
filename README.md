@@ -1,6 +1,6 @@
 # Basic GCC Docker Container #
 
-![action](https://github.com/jmciver/ubuntu-gcc-x86_64/actions/workflows/main.yml/badge.svg)
+![action](https://github.com/jmciver/docker-gcc-x86_64/actions/workflows/main.yml/badge.svg)
 
 The following project is used to create a basic Ubuntu based Docker
 image with `gcc` and `make`. The `WORKDIR` is specified to be
